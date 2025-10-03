@@ -1,8 +1,8 @@
 ---
 name: 'Feature request'
 about: 'Suggest a new feature or enhancement'
-title: '[Feature][FE]'
-labels: ['enhancement', 'frontend']
+title: '[Feature] '
+labels: ['enhancement']
 assignees: []
 ---
 
